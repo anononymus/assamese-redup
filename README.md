@@ -6,11 +6,16 @@ This repository contains python implementation of automatic reduplication identi
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. Please see to instructions to run the project.
 
+###Library requirement
 
+We used Python 3 along with IndicNLP library. IndicNLP a python library is required for processing Indian languages.
 
-We used python-3 along with IndicNLP library-
+1) Install indic nlp : 
 
-1) Install indic nlp : pip3 install indicnlp 
+```
+pip3 install indicnlp 
+
+```
 2) Copy the file under kept in 'indicnlp' directory to the location 'indicnlp/tokenize' where IndicNLP is installed.
 
 For details of IndicNLP package visit github link- https://github.com/anoopkunchukuttan/indic_nlp_resources#indic-nlp-resources
