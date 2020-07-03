@@ -26,7 +26,7 @@ For more details of IndicNLP package visit github link- https://github.com/anoop
 ### How to run the project
 
 To run the programme, please run the 'find_redup.py' file-
-
+```
 python find_redup.py 
-
+```
 This will take 'social_media_post.txt' as input. After procesing, the programm will generate a text file named 'redup_word.txt' in the same directory which contain all the reduplicated word along with its classification.
