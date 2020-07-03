@@ -1,7 +1,12 @@
-# assamese-redup
-Automatic Identification of Assamese reduplication
+# Automatic Identification of Assamese reduplication
 
-This repository contains python implementation of automatic reduplication identification along with cllasification into different types.
+This repository contains python implementation of automatic reduplication identification along with classification into different types.
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. Please see to instructions to run the project.
+
+
 
 We used python-3 along with IndicNLP library-
 
