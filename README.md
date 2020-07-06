@@ -23,6 +23,18 @@ pip3 install indicnlp
 
 For more details of IndicNLP package visit github link- https://github.com/anoopkunchukuttan/indic_nlp_resources#indic-nlp-resources
 
+### Dataset
+
+We have used three dataset for our experiment. Except the third one, the other two are own collection. 
+
+1) Social Media dataset (sample file included in the repo, named as 'social_media_post.txt' )
+
+2) Agricultural dataset ( sample file inculded in repo, named as 'agicultural_dataset.txt' )
+
+3) TDIL dataset:  Acquired dataset named 'Assamese Monolingual Text Corpus ILCI-II' from TDIL, Indian Languages Corpora Initiative phase –II (ILCI Phase-II) project, initiated by the MeitY, Govt. of India, Jawaharlal Nehru University. Not allowed for open publishing.
+
+Link: https://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1877&lang=en
+
 ### How to run the project
 
 To run the programme, please run the 'find_redup.py' file-
