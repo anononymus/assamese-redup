@@ -33,7 +33,7 @@ We have used three dataset for our experiment. Except the third one, the other t
 
 3) TDIL dataset:  Acquired dataset named 'Assamese Monolingual Text Corpus ILCI-II' from TDIL, Indian Languages Corpora Initiative phase –II (ILCI Phase-II) project, initiated by the MeitY, Govt. of India, Jawaharlal Nehru University. Not allowed for open publishing.
 
-Link: https://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1877&lang=en
+TDIL Link: https://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1877&lang=en
 
 ### How to run the project
 
