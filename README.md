@@ -41,4 +41,6 @@ To run the programme, please run the 'find_redup.py' file-
 ```
 python find_redup.py 
 ```
-This will take 'social_media_post.txt' as input. After procesing, the programm will generate a text file named 'redup_word.txt' in the same directory which contain all the reduplicated word along with its classification.
+1) This will take 'social_media_post.txt' as input.
+
+2) After procesing, the programm will generate a text file named ### 'redup_word.txt' ### in the same directory which contain all the reduplicated word along with its classification.
