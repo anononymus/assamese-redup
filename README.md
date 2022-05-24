@@ -45,7 +45,7 @@ python find_redup.py
 
 2) After procesing, the programm will generate a text file named  ***redup_word.txt*** in the same directory which contain all the reduplicated word along with its classification.
 
-### If you use the our code or dataset, please cite [this paper](https://dl.acm.org/doi/10.1145/3510419): 
+### If you use our code or dataset, please cite [this paper](https://dl.acm.org/doi/10.1145/3510419): 
 
 ```
 
