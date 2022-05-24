@@ -44,3 +44,32 @@ python find_redup.py
 1) This will take 'social_media_post.txt' as input.
 
 2) After procesing, the programm will generate a text file named  ***redup_word.txt*** in the same directory which contain all the reduplicated word along with its classification.
+
+##If you use the our code or dataset, please cite this paper [https://dl.acm.org/doi/10.1145/3510419]: 
+
+```
+
+    @article{10.1145/3510419,
+    author = {Pathak, Dhrubajyoti and Nandi, Sukumar and Sarmah, Priyankoo},
+    title = {Reduplication in Assamese: Identification and Modeling},
+    year = {2022},
+    issue_date = {September 2022},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    volume = {21},
+    number = {5},
+    issn = {2375-4699},
+    url = {https://doi.org/10.1145/3510419},
+    doi = {10.1145/3510419},
+    journal = {ACM Trans. Asian Low-Resour. Lang. Inf. Process.},
+    month = {may},
+    articleno = {90},
+    numpages = {18},
+    }
+
+      
+
+
+
+```
+
