@@ -65,11 +65,7 @@ python find_redup.py
     month = {may},
     articleno = {90},
     numpages = {18},
-    }
-
-      
-
-
+    }  
 
 ```
 
