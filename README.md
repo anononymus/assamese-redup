@@ -48,24 +48,21 @@ python find_redup.py
 ### If you use our code or dataset, please cite [this paper](https://dl.acm.org/doi/10.1145/3510419): 
 
 ```
-
-    @article{10.1145/3510419,
-    author = {Pathak, Dhrubajyoti and Nandi, Sukumar and Sarmah, Priyankoo},
-    title = {Reduplication in Assamese: Identification and Modeling},
-    year = {2022},
-    issue_date = {September 2022},
-    publisher = {Association for Computing Machinery},
-    address = {New York, NY, USA},
-    volume = {21},
-    number = {5},
-    issn = {2375-4699},
-    url = {https://doi.org/10.1145/3510419},
-    doi = {10.1145/3510419},
-    journal = {ACM Trans. Asian Low-Resour. Lang. Inf. Process.},
-    month = {may},
-    articleno = {90},
-    numpages = {18},
-    }  
+     
+  @article{pathak2022reduplication,
+  title={Reduplication in Assamese: Identification and Modeling},
+  author={Pathak, Dhrubajyoti and Nandi, Sukumar and Sarmah, Priyankoo},
+  journal={Transactions on Asian and Low-Resource Language Information Processing},
+  volume={21},
+  number={5},
+  pages={1--18},
+  articleno = {90},
+  year={2022},
+  issue_date = {September 2022},
+  publisher={ACM New York, NY}
+  url = {https://doi.org/10.1145/3510419},
+  doi = {10.1145/3510419},
+}
 
 ```
 
